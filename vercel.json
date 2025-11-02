@@ -1,6 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "timetable/build",
-  "installCommand": "npm install",
   "framework": null
 }
