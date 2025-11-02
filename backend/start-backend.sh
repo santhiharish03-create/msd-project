@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Starting Vignan Timetable Backend..."
+echo "Make sure MongoDB is running first!"
+echo ""
+echo "Install Node.js from: https://nodejs.org"
+echo "Then run:"
+echo "  npm install"
+echo "  npm run dev"
+echo ""
+echo "Backend will start on: http://localhost:5000"

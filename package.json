@@ -1,0 +1,17 @@
+{
+  "name": "vignan-timetable-system",
+  "version": "1.0.0",
+  "description": "Vignan Timetable Management System",
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node start.js",
+    "frontend": "cd timetable && npm run dev",
+    "backend": "cd backend && npm run dev",
+    "build": "cd timetable && npm run build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.7"
+  }
+}

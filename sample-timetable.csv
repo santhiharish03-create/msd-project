@@ -1,0 +1,11 @@
+section,day,time,subject,faculty,room
+A,Monday,08:15-09:10,FP,Dr. P. Sandeep,2A-101
+A,Monday,09:10-10:05,NPTEL,Mr. R. Karthik,2A-101
+A,Monday,10:20-11:15,CCPS,Mr. T. Anirudh,2A-101
+A,Monday,11:15-12:10,COA,Dr. S. Ramesh,2A-101
+A,Monday,02:00-02:55,DAA,Dr. N. Kishore,2A-101
+B,Monday,08:15-09:10,TOC,Mrs. G. Lavanya,2B-102
+B,Monday,09:10-10:05,OS,Dr. K. Kumar,2B-102
+B,Monday,10:20-11:15,FAD,Ms. R. Pooja,2B-102
+B,Monday,11:15-12:10,DAA,Dr. N. Kishore,2B-102
+B,Monday,02:00-02:55,FP,Dr. P. Sandeep,2B-102
