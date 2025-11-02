@@ -7,7 +7,7 @@
     "start": "node start.js",
     "frontend": "cd timetable && npm run dev",
     "backend": "cd backend && npm run dev",
-    "build": "cp -r timetable/src ./src && cp -r timetable/public ./public && cp timetable/package.json ./frontend-package.json && react-scripts build"
+    "build": "cd timetable && npm run build"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",

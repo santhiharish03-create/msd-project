@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "build",
-  "installCommand": "npm install"
+  "buildCommand": "cd timetable && npm install && npm run build",
+  "outputDirectory": "timetable/build"
 }
